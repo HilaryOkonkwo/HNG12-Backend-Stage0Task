@@ -49,9 +49,13 @@ Get '/'
 The API will return a JSON Object with the following fields:
 
 {
+ 
   "email": "somtoochukwuhilary@gmail.com",
+
   "current_datetime": "2025-01-30T09:30:00Z",
+
   "github_url": "https://github.com/HilaryOkonkwo/HNG12-Backend-Stage0Task"
+  
 }
 
 
