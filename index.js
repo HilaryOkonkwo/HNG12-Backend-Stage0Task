@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     res.json({
         email:"somtoochukwuhilary@gmail.com",
         current_datetime: new Date().toISOString(),
-        github_url:"https://github.com/HilaryOkonkwo/HNG12-Backend-Stage0Task.git"
+        github_url:"https://github.com/HilaryOkonkwo/HNG12-Backend-Stage0Task"
     })
 })
 app.listen(PORT, () => {
